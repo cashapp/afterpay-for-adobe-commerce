@@ -1,9 +1,9 @@
 {
     "name": "cash-app-commerce/afterpay-for-adobe-commerce",
     "license": "Apache-2.0",
-    "version": "5.3.0",
+    "version": "5.3.1",
     "type": "metapackage",
     "require": {
-        "afterpay-global/module-afterpay": "5.3.0"
+        "afterpay-global/module-afterpay": "5.3.1"
     }
 }
